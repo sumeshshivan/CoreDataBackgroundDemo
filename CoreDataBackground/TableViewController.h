@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TableViewController.h
 //  CoreDataBackground
 //
 //  Created by Sumesh on 17/03/16.
@@ -7,9 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <CoreData/CoreData.h>
+#import "DataManager.h"
 
-@interface ViewController : UIViewController
-
+@interface TableViewController : UITableViewController
 
 @end
-
